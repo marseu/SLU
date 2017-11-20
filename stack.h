@@ -1,10 +1,4 @@
-/*! \author  Kenta Goto
- *  \class  MCS 360
- *  \instructor Professor Lowman
- *  \assignment Project 1
- *  \file stach.h
- *  \brief Header file for class Stack.
- */
+
 #include <iostream>
 #ifndef STACK_H
 #define STACK_H
